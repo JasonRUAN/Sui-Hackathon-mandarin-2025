@@ -16,8 +16,8 @@
 
 ## 参赛信息
 - [Bucky-Bank](https://github.com/JasonRUAN/Bucky-Bank)
-- [PPT]()
-- [在线地址]()
+- [PPT](https://github.com/JasonRUAN/Bucky-Bank/blob/main/PPT/BuckyBank-PPT_rzexin.pdf)
+- [在线地址](https://moverse.wal.app/)
 
 ## 其他附加说明
 >> 你想说什么
