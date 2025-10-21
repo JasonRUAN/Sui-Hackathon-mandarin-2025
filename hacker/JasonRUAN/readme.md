@@ -16,9 +16,10 @@
 
 ## 参赛信息
 - [Bucky-Bank](https://github.com/JasonRUAN/Bucky-Bank)
-- [PPT](https://github.com/JasonRUAN/Bucky-Bank/blob/main/PPT/BuckyBank-PPT_rzexin.pdf)
+- [PPT](https://github.com/JasonRUAN/Bucky-Bank/blob/main/PPT/BuckyBank-PPT_v1.0.pdf)
 - 在线地址：https://moverse.wal.app
 - 合约主网地址：https://suivision.xyz/package/0xd39e602f21a443cf4eac6ce1000861e692fa67ad781c723c255393c68f35ed5f
+- Demo Video: https://drive.google.com/file/d/1t-dy4RtLpLwzeUtvANFeiPUnoEPdCwWS/view?usp=sharing
 
 ## 其他附加说明
 >> 你想说什么
